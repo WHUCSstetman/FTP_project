@@ -1,0 +1,11 @@
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\bin\Debug\SendMailSimple.exe.config
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\bin\Debug\SendMailSimple.exe
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\bin\Debug\SendMailSimple.pdb
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\frm_Ftp.csproj.AssemblyReference.cache
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\frm_Ftp.csproj.SuggestedBindingRedirects.cache
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\SendMailSimple.frm_Ftp.resources
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\SendMailSimple.Properties.Resources.resources
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\frm_Ftp.csproj.GenerateResource.cache
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\frm_Ftp.csproj.CoreCompileInputs.cache
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\SendMailSimple.exe
+C:\Users\63436\Desktop\文件\cpp\FTP_my\SendMailSimple\obj\Debug\SendMailSimple.pdb
